@@ -1,0 +1,20 @@
+input {
+    font-family: inherit;
+    font-size: 14px;
+    width: 20%;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    outline: none;
+    padding: 10px 15px;
+    color: rgba(0, 0, 0, 0.7);
+    
+  }
+  .dynamic-field {
+    margin-bottom: 15px;
+    label {
+      font-size: 16px;
+      font-weight: 400;
+      letter-spacing: 0px;
+      margin-bottom: 10px;
+      color: rgba(0, 0, 0, 0.9);
+    }
+  }
